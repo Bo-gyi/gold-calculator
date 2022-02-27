@@ -32,6 +32,7 @@ html {
     line-height: 1.4;
     font-family: "Roboto", Helvetica, Arial, sans-serif;
     overflow: hidden;
+    overscroll-behavior: none;
 }
 
 body {
